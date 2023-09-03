@@ -190,7 +190,7 @@ export default function App() {
                     Punyashlok Ahilyadevi Holkar University, Solapur
                   </h5>
                   <span class="timeline__period">Pursuing</span>
-                  <p class="timeline__description">Percentage - 68.56%</p>
+                  <p class="timeline__description">Percentage - 61.22%</p>
                 </article>
 
                 <article class="timeline__item">
