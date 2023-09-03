@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.box-outer {
+  border-radius: 0;
+}
+.page, page[size=A4] {
+  height: 27.5cm!important;
+  width: 21cm!important;
+}
+.page {
+  background: #fff;
+  display: block;
+  margin: 0 auto;
+}
+.pdf-images{
+  position: relative;
+}
+.pdf-images img{
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+.box-outer {
+  border: 1px solid #f1eeee;
+  padding: 1.875rem;
+  position: relative;
+}

@@ -3289,4 +3289,12 @@ button:focus {
   border-radius: 0.0625rem;
   height: 100%;
 }
-/*# sourceMappingURL=style.css.map */
+.pdf-images{
+  position: relative;
+}
+.pdf-images img{
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  object-position: center;
+}
